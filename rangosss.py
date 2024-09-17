@@ -1,6 +1,6 @@
+print("Nicole Chuma")
 calificacionString=input("Ingrese su calificacion:(0.0 - 10.0) ")
 calificacion= float(calificacionString)
-
 
 if calificacion >=0 and calificacion <=4:#{0-4}
     print("Debes mejorar")
